@@ -1,0 +1,36 @@
+/* main{
+  background-color: lightsteelblue;
+} */
+
+.headline{
+    margin-top:20px;
+    font-size:72px;
+    text-align: center;
+    color: red;
+    font-family:'Times New Roman', Times, serif;
+    margin-bottom: 0%;
+}
+
+.navbar{
+  font-size:30px;
+  text-align:right;
+
+}
+
+.summa {
+  font-size: 40px;
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+  height: 600px;
+}
+
+
+#home{
+  margin-top:200px;
+  margin-bottom:200px;
+
+}
+
+#name1{
+  font-size: larger;
+}
